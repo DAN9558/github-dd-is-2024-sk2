@@ -16,3 +16,8 @@ Datum a čas provedení změny: 2024-10-03, 13:02
 ## Změna provedéná přímo na Githubu
 Datum a čas provedení změny: 2024-10-03, 13:14
 Daniel Dubský
+
+
+## Další změna provedéná přímo na Githubu
+Datum a čas provedení změny: 2024-10-03, 13:17
+Daniel Dubský
