@@ -21,3 +21,12 @@ Daniel Dubský
 ## Další změna provedéná přímo na Githubu
 Datum a čas provedení změny: 2024-10-03, 13:17
 Daniel Dubský
+
+
+## Test doma na nooteboku
+Datum a čas provedení změny: 2024-10-08, 15:12
+Daniel Dubský
+
+## další test na Nooteboku
+Datum a čas provedení změny: 2024-10-13, 13:58
+Daniel Dubský
