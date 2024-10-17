@@ -30,3 +30,4 @@ Daniel Dubský
 ## další test na Nooteboku
 Datum a čas provedení změny: 2024-10-13, 13:58
 Daniel Dubský
+

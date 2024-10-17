@@ -1,3 +1,3 @@
 ## Složka IS-Projekt
 
-Tato složa je určena pro dílčí projekty (programy) v jazyku C#
+Tato složka je určena pro dílčí projekty (programy) v jazyku C#
