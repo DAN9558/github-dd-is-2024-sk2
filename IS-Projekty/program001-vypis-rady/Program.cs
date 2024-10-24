@@ -6,7 +6,7 @@ class Program {
         Console.Clear();
         Console.WriteLine("***********************************");
         Console.WriteLine("*********Výpis číselné řady********");
-        Console.WriteLine("***********Daniel Dubský************");
+        Console.WriteLine("*********** Daniel Dubský ************");
         Console.WriteLine("***********************************");
         Console.WriteLine();
         Console.WriteLine();
