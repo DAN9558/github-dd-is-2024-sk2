@@ -4,7 +4,7 @@ while(again == "a") {
             Console.Clear();
             Console.WriteLine("*******************************");
             Console.WriteLine("**** Součet a součin cifer ****");
-            Console.WriteLine("******** Daniel Dubský*********");
+            Console.WriteLine("******** Daniel Dubský *********");
             Console.WriteLine("*******************************");
             Console.WriteLine();
             Console.WriteLine();
